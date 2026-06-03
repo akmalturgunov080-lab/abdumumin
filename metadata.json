@@ -1,0 +1,6 @@
+{
+  "name": "RM Drift",
+  "description": "A high-octane 2D top-down drifting game with realistic physics, tire smoke, and score multipliers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
